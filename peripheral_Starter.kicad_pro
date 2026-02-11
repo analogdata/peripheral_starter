@@ -412,6 +412,14 @@
     [
       "2aaf4ea4-3ef9-4a1c-b418-0d7a6cb058c4",
       "Root"
+    ],
+    [
+      "96c8e79b-9a44-459d-be84-a3f4b87ff811",
+      "Sheet 1 - Power Section"
+    ],
+    [
+      "0dd887bd-0a57-4f82-9ef7-d5122f99eb21",
+      "Sheet 2 - Peripheral Circuit"
     ]
   ],
   "text_variables": {}
