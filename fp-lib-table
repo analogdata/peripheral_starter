@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "MP1584 STEP DOWN")(type "KiCad")(uri "${KIPRJMOD}/MP1584 STEP DOWN.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library/Library.pretty")(options "")(descr ""))
+  (lib (name "peripheral_lib")(type "KiCad")(uri "${KIPRJMOD}/Library/peripheral_lib.pretty")(options "")(descr ""))
 )
